@@ -20,3 +20,4 @@ docker run -it \
 ```
   psql "host=127.0.0.1 sslmode=disable dbname=<DB_NAME> user=<USER_NAME>"
 ```
+>Could change ip address instead of 127.0.0.1
